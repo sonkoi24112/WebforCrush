@@ -28,7 +28,7 @@
   background-repeat: no-repeat;
   background-image: url(../img/KD.jpg);
   background-size: cover;
-  background-position: 50%;
+  background-position: 50%;s
   -webkit-filter: blur(4px);
 }
 .swal2-title, .swal2-content{
