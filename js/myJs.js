@@ -4,13 +4,13 @@ const textConfig = {
   text3: "Cậu có yêu bản thân mình không ._.",
   text4: "Nếu cậu ko trả lời mà thoát ra tức là muốn làm Osin của tới rồi đó nha",
   text5: "Cậu mơ à?",
-  text6: " Yêu chứ nhờ <3",
+  text6: " Yêu chứ nhờ",
   text7: "lí do cậu thích bản thân đi ",
-  text8: "Gửi cho tớ <3",
-  text9: "Vì cô Diệu xinh đẹp mà",
+  text8: "Gửi cho tớ",
+  text9: "Vì cô Diệu xinh đẹp",
   text10: "Tớ biết mà ^^",
   text11:
-    "20/11 đi chơi nhaa :v",
+    "20/11 đi chơi với team nha :v",
   text12: "Okii lunn <3",
 };
 
